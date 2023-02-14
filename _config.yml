@@ -1,5 +1,5 @@
 title: Hot & cold Milktea
-theme: white
+theme: minima
 collections:
   collection:
     output: true

@@ -1,5 +1,5 @@
-title: My LIS786 Project
-theme: minima
+title: Hot & cold Milktea
+theme: white
 collections:
   collection:
     output: true

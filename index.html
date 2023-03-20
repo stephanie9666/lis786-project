@@ -5,5 +5,12 @@ layout: home
 <p><img src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/294300635_103556599107403_1944113922577517451_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=bsfqTaDcG8sAX-XSSBr&_nc_ht=scontent-ord5-1.xx&oh=00_AfCJLEe9gwHeRM6juME6wk5gvT1qHF0CHfU0d_qO4IoPbg&oe=63EFD154" alt="image of  brand logo"/></p>
 <p>Mission Statement</p>
 <p>Maintaining and promoting good taste is an important task to retain old customers and attract new customers, helping the brand grow strong and long over time.</p>
-
+<h2>List of drinks</h2>
+{% for drink in site.drink %}
+    <!-- DO SOMETHING--> 
+    <h3>{{ drink.title}}</h3>
+    <p><img src="{{ drink.image}}" alt="alt text here..."/></p>
+    <p>{{drink.content}}</p>
+    <p>Category: {{drink.category }}</p>
+{%end for %}
    

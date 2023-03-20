@@ -1,12 +1,12 @@
 title: Hot & cold Milktea
 theme: minima
 collections:
-  collection:
+  drink:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "drink"
     values:
-      layout: collection_item
+      layout: drink

@@ -14,4 +14,5 @@ We are hosting:
 </div>
 <div class="img-right" markdown="1">
 ![Images of event](assets/images/https%3A/assets.marthastewartweddings.com/)
+![Images of event](assets/images/https%3A/diyprojects.com/)
 </div>

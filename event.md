@@ -3,5 +3,15 @@ title: Event
 layout: page
 permalink: /event
 ---
-This is my page about event
 
+<div class="content-left" markdown="1">
+
+We are hosting: 
+
+- Birthday party
+- Bridal Shower
+- Music event.
+</div>
+<div class="img-right" markdown="1">
+![Images of event](assets/images/https%3A/assets.marthastewartweddings.com/)
+</div>

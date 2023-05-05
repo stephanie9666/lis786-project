@@ -8,7 +8,7 @@ my_variable: We are located at 751 West Golf Road,Schamburg Illinois.
 ---
 {% include page-image.html %}
 instagram: hotandcoldmilktea
-facebook:hotandcoldmilktea
+
 
 
 {{ page.my_variable }}

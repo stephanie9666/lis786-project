@@ -3,21 +3,17 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
+<div class="content-left" markdown="1">
 
 ## This is what an h2 element looks like in Markdown
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
+Creme Milk Series
 
-- list item one
-- list item two
-- list item three
+- Taro Creme Milk
+- lStrawberry Creme Milk
+- Matcha Creme Milk
 
-And here's an ordered (numbered) list:
-
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
+</div>
+<div class="img-right" markdown="1">
+![Images of Milk](assets/images/coffe.jpg/https%3A/lh6.googleusercontent.com/v0mNy1LgMRaW5eRyrhEv5DSg_tFFPi1ioxsrCP5FWG4Dff4qFa3MkWwfdE8kOwVFrSqtJbINTRqyHl4M_gEP5IMh4rNdwDTZBq2AOPbojvEKF3d_7QHnysvjGvdHcLhiFVO6R3qp)
+</div>
